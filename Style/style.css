@@ -1,7 +1,12 @@
 .container {
     display: flex;
     justify-content: space-between;
-    margin: 20px;
+    /* margin: 20px; */
+
+}
+
+.src {
+    /* margin: 20px; */
 }
 
 .btn {
@@ -10,4 +15,16 @@
     padding: 5px;
     border-radius: 2px;
 
+}
+
+.poster {
+    align-items: center;
+    margin-top: 20px;
+    width: 500px;
+}
+
+.poster-contant {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
 }
