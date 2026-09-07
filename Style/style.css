@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+.btn {
+    background-color: blue;
+    color: aliceblue;
+    padding: 5px;
+    border-radius: 2px;
+
+}
